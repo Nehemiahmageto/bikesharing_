@@ -24,6 +24,6 @@ How are trips distributed by user type through the week?
 
 ## Data Analysis
 
-![Image 1]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%200.jpg))
+![Image 1](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%200.jpg)
 
 # Summary
