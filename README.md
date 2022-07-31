@@ -20,10 +20,20 @@ How are trips distributed through the week?
 How are trips distributed by gender through the week?
 How are trips distributed by user type through the week?
 
-[Link](https://public.tableau.com/app/profile/nehemiah.maheto/viz/Module14Challenge_16592899079540/Story1?publish=yes) to the Tableau Visualozations:
+[Link](https://public.tableau.com/app/profile/nehemiah.maheto/viz/Module14Challenge_16592899079540/Story1?publish=yes) to the Tableau Visualizations:
 
 ## Data Analysis
+Let us take a deeper look at the different results concluded from this data.
 
 ![Image 1](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%200.jpg)
+
+Table above depicts the most likely starting locations by the users. The areas with larger and darker colors depicts the most likely areas one will take out a bike for use. This will help investors when deciding where to start first to attract as much customers as possible. Strategic marketing will be key in these areas.
+
+![Image 2](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%201.jpg)
+
+Table above shows the time most people spend with the bikes before checking out. We can see most of the users only use the bikes for 5 minutes with the graph gradually falling thereafter. Most users will have checked out in twenty five minutes with the outliers spreading out till the hour with very few extending thereafter.
+This coupled with the best starting locations, we can conclude that offices well spaced out within five to twenty minues of each other would be ideal in these areas to cater for all users within this area. The offices can spread out with longer distances as we head into the least best starting locations.
+
+![Image 2](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%202.jpg)
 
 # Summary
