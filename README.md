@@ -12,7 +12,6 @@ The data on trip duration is first convered to a datetime format using python's 
 ### Questions to be answered:
 
 What are the best locations to concentrate beginning efforts for this project?
-
 What is the length of time bikes are checked out for all riders and genders?
 What is the gender and user type distribution of potential customers?
 What is the avergae bike trip length, thus influence distance between store locations>
@@ -21,4 +20,9 @@ How are trips distributed through the week?
 How are trips distributed by gender through the week?
 How are trips distributed by user type through the week?
 
-##Data Analysis
+Link to the Tbleau Visualozations:
+[https://public.tableau.com/app/profile/nehemiah.maheto/viz/Module14Challenge_16592899079540/Story1?publish=yes]
+
+## Data Analysis
+
+# Summarry
