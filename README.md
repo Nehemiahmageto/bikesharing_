@@ -20,9 +20,10 @@ How are trips distributed through the week?
 How are trips distributed by gender through the week?
 How are trips distributed by user type through the week?
 
-Link to the Tbleau Visualozations:
-[https://public.tableau.com/app/profile/nehemiah.maheto/viz/Module14Challenge_16592899079540/Story1?publish=yes]
+[Link](https://public.tableau.com/app/profile/nehemiah.maheto/viz/Module14Challenge_16592899079540/Story1?publish=yes) to the Tableau Visualozations:
 
 ## Data Analysis
 
-# Summarry
+
+
+# Summary
