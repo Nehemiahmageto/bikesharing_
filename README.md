@@ -34,6 +34,14 @@ Table above depicts the most likely starting locations by the users. The areas w
 Table above shows the time most people spend with the bikes before checking out. We can see most of the users only use the bikes for 5 minutes with the graph gradually falling thereafter. Most users will have checked out in twenty five minutes with the outliers spreading out till the hour with very few extending thereafter.
 This coupled with the best starting locations, we can conclude that offices well spaced out within five to twenty minues of each other would be ideal in these areas to cater for all users within this area. The offices can spread out with longer distances as we head into the least best starting locations.
 
-![Image 2](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%202.jpg)
+![Image 3](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%202.jpg)
+
+![Image 4](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%203.jpg)
+
+![Image 5](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%204.jpg)
+
+![Image 6](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%205.jpg)
+
+![Image 7](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%206.jpg)
 
 # Summary
