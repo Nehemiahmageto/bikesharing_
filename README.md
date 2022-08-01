@@ -45,3 +45,9 @@ This coupled with the best starting locations, we can conclude that offices well
 ![Image 7](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%206.jpg)
 
 # Summary
+From the analysis we can come to a conclusion that there is a huge demand for cycling especially to and from work which will give continuos market throughout the year. We also have dedicated subscription especially from male users. We also know where to locate out outlets best suitable for the market groiup.
+
+For the future, we may look to visualize two;
+
+1. The routes most taken, from the start and endpoint.
+2. Growth of market size between two points in time.
