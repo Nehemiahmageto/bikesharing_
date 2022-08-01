@@ -41,11 +41,11 @@ Figure above shows us the distribution of these checkout times by gender.
 ![Image 4](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%204.jpg)
 
 Figure above shows us the gender distribution between the two user types.
-The high number of uknowns in the customer group indicates that customers rearely give or opt not to indicate their genders. We can still see a relativelt high number of males in both user groups. This may help in targeted marketing.
+The high number of uknowns in the customer group indicates that customers rarely give or opt not to indicate their genders. We can still see a relatively high number of males in both user groups. This may help in targeted marketing.
 
 ![Image 5](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%203.jpg)
 
-Figure above shows distribution of trips throgh the week. Most people use it in the morning and evening hours assumably to and fro work. There is also a high number of trips during the day on Saturday. Sunday shoes a relatively lower number odf trips.
+Figure above shows distribution of trips through the week. Most people use it in the morning and evening hours assumably to and from work. There is also a high number of trips during the day on Saturday. Sunday shoes a relatively lower number of trips.
 
 ![Image 6](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%205.jpg)
 
@@ -56,9 +56,9 @@ Figure above shows the distribution of the weekly trips by gender.
 Figure above shows the distribution per week per user type and by gender. We can see a high number of trips by subscribers as expected, but an even higher number by the male subscription group more than any other group.
 
 # Summary
-From the analysis we can come to a conclusion that there is a huge demand for cycling especially to and from work which will give continuos market throughout the year. We also have dedicated subscription especially from male users. We also know where to locate out outlets best suitable for the market groiup.
+From the analysis we can come to a conclusion that there is a huge demand for cycling especially to and from work which will give continuous market throughout the year. We also have dedicated subscription especially from male users. We also know where to locate out outlets best suitable for the market groiup.
 
-For the future, we may look to visualize two;
+For the future, we may look to visualize;
 
 1. The routes most taken, from the start and endpoint.
-2. Growth of market size between two points in time.
+2. Growth of market size between different points in time.
