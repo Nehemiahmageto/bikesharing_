@@ -36,13 +36,24 @@ This coupled with the best starting locations, we can conclude that offices well
 
 ![Image 3](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%202.jpg)
 
-![Image 4](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%203.jpg)
+Figure above shows us the distribution of these checkout times by gender.
 
-![Image 5](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%204.jpg)
+![Image 4](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%204.jpg)
+
+Figure above shows us the gender distribution between the two user types.
+The high number of uknowns in the customer group indicates that customers rearely give or opt not to indicate their genders. We can still see a relativelt high number of males in both user groups. This may help in targeted marketing.
+
+![Image 5](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%203.jpg)
+
+Figure above shows distribution of trips throgh the week. Most people use it in the morning and evening hours assumably to and fro work. There is also a high number of trips during the day on Saturday. Sunday shoes a relatively lower number odf trips.
 
 ![Image 6](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%205.jpg)
 
-![Image 7](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%206.jpg)
+Figure above shows the distribution of the weekly trips by gender.
+
+![Image 7](https://github.com/Nehemiahmageto/bikesharing_/blob/main/Visualizations/Capture%206.JPG)
+
+Figure above shows the distribution per week per user type and by gender. We can see a high number of trips by subscribers as expected, but an even higher number by the male subscription group more than any other group.
 
 # Summary
 From the analysis we can come to a conclusion that there is a huge demand for cycling especially to and from work which will give continuos market throughout the year. We also have dedicated subscription especially from male users. We also know where to locate out outlets best suitable for the market groiup.
